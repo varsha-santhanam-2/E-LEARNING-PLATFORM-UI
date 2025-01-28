@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Digital Marketing",
+      "description": "Learn SEO, social media, and email marketing.",
+      "content": "SEO, Social Media Marketing, Content Writing, Analytics",
+      "time": "3 months",
+      "fee": "$200",
+      "image": "course4.jpg"
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Build apps for Android and iOS devices.",
+      "content": "Kotlin, Swift, Flutter, Firebase",
+      "time": "5 months",
+      "fee": "$350",
+      "image": "course5.jpg"
+    },
+    {
+      "title": "Cybersecurity",
+      "description": "Protect systems and networks from cyber threats.",
+      "content": "Network Security, Cryptography, Ethical Hacking, Incident Response",
+      "time": "7 months",
+      "fee": "$450",
+      "image": "course6.jpg"
+    }
+  ]
